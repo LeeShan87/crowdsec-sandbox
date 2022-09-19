@@ -1,0 +1,5 @@
+id: victim-centos7
+file_roots:
+  base:
+  - /srv/salt
+  - /srv/formulas/*/

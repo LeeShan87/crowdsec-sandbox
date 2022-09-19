@@ -1,0 +1,5 @@
+id: victim-ubuntu16
+file_roots:
+  base:
+  - /srv/salt
+  - /srv/formulas/*/

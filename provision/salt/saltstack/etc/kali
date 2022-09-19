@@ -1,0 +1,5 @@
+id: kali
+file_roots:
+  base:
+  - /srv/salt
+  - /srv/formulas/*/

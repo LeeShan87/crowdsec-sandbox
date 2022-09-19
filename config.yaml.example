@@ -1,0 +1,5 @@
+provisioner: salt
+# provisioner: chef
+# provisioner: ansible
+default_box: bento/centos-7.7
+# default_box: bento/debian-9
